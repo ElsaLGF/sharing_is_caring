@@ -1,0 +1,3 @@
+graft sharing_is_caring
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  sharing_is_caring/jupy *
